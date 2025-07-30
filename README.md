@@ -62,17 +62,4 @@ Okul yönetim sistemi örneğidir. Öğrenci ve öğretmen nesneleri, `School` s
 **Açıklama:**  
 Kütüphane yönetim sistemidir. Kitaplar `Book` sınıfı ile tanımlanır ve `Library` sınıfı altında saklanır. `Main` sınıfı, kullanıcı arayüzünü oluşturur.
 
----
 
-## Gereksinimler
-
-- Java JDK 11+ (Java projeleri için)
-- Python 3.x (KNN için)
-
-## Derleme ve Çalıştırma
-
-### Java Projeleri
-```bash
-cd OOP/BankApp
-javac *.java
-java Main
