@@ -1,65 +1,63 @@
 # Java + Python OOP Projects
 
-Bu proje dizini, Nesne Yönelimli Programlama (OOP) prensiplerini uygulamak için geliştirilmiş örnek projeler içerir. Her klasör bağımsız bir uygulamadır ve farklı alanlarda OOP kavramlarını pratik etmeyi amaçlar.
+This project directory contains example projects developed to practice Object-Oriented Programming (OOP) principles. Each folder is an independent application, aiming to demonstrate OOP concepts in different domains.
 
-## Projeler
+## Projects
 
 ---
 
 ### OOP/BankApp
 
-**Dosyalar:**
+**Files:**
 - `Main.java`
 - `BankAccount.java`
 
-**Açıklama:**  
-Basit bir banka uygulamasıdır. `BankAccount` sınıfı üzerinden para yatırma, çekme gibi işlemler yapılabilir. Kullanıcı etkileşimi `Main` sınıfı üzerinden sağlanır.
+**Description:**  
+A simple banking application. The `BankAccount` class enables operations such as deposit and withdrawal. User interaction is handled through the `Main` class.
 
 ---
 
 ### OOP/CarRent
 
-**Dosyalar:**
+**Files:**
 - `Main.java`
 - `CarRental.java`
 - `Vehicle.java`
 
-**Açıklama:**  
-Araç kiralama sistemidir. `Vehicle` sınıfı kalıtım için temel sınıftır. `CarRental` sınıfı kiralama işlemlerini yürütür. `Main` sınıfı, bu yapıyı kullanarak uygulamayı çalıştırır.
+**Description:**  
+A car rental system. The `Vehicle` class serves as a base class for inheritance. The `CarRental` class manages rental operations. The `Main` class runs the application using this structure.
 
 ---
 
 ### OOP/KNN
 
-**Dosya:**
+**File:**
 - `knn.py`
 
-**Açıklama:**  
-Python ile yazılmış basit bir K-En Yakın Komşu (KNN) sınıflandırma algoritması örneği. Makine öğrenmesi konularına giriş niteliği taşır.
+**Description:**  
+A simple K-Nearest Neighbors (KNN) classification algorithm example written in Python. Serves as an introduction to machine learning concepts.
 
 ---
 
 ### OOP/SchoolManagement
 
-**Dosyalar:**
+**Files:**
 - `Main.java`
 - `School.java`
 - `Student.java`
 - `Teacher.java`
 
-**Açıklama:**  
-Okul yönetim sistemi örneğidir. Öğrenci ve öğretmen nesneleri, `School` sınıfı altında yönetilir. Nesne ilişkileri, kalıtım ve bileşenlik (composition) gibi OOP ilkelerini uygular.
+**Description:**  
+A school management system example. Student and teacher objects are managed under the `School` class. Demonstrates OOP principles such as relationships between objects, inheritance, and composition.
 
 ---
 
-### OOP/library
+### OOP/Library
 
-**Dosyalar:**
+**Files:**
 - `Main.java`
 - `Book.java`
 - `Library.java`
 
-**Açıklama:**  
-Kütüphane yönetim sistemidir. Kitaplar `Book` sınıfı ile tanımlanır ve `Library` sınıfı altında saklanır. `Main` sınıfı, kullanıcı arayüzünü oluşturur.
-
-
+**Description:**  
+A library management system. Books are defined with the `Book` class and stored under the `Library` class. The `Main` class provides the user interface for interaction.
