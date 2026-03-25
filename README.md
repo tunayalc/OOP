@@ -2,7 +2,7 @@
 
 OOP is a multi-language educational repository that demonstrates object-oriented programming concepts using small, domain-based projects.
 
-## Project Goal
+## Project Purpose
 The goal is to practice core OOP principles with concrete mini-systems such as banking, rentals, and school management.
 
 ## Tech Stack
@@ -49,3 +49,5 @@ OOP/
 ## Notes
 - Each folder should be treated as an independent project.
 - Java and Python components are intentionally separated to keep examples focused.
+
+
