@@ -1,31 +1,51 @@
 ﻿# OOP
 
-Bu repo, nesne yonelimli programlama prensiplerini farkli mini projeler uzerinden gosteren bir egitim koleksiyonudur.
+OOP is a multi-language educational repository that demonstrates object-oriented programming concepts using small, domain-based projects.
 
-## Projeler
+## Project Goal
+The goal is to practice core OOP principles with concrete mini-systems such as banking, rentals, and school management.
+
+## Tech Stack
+- Java (multiple mini projects)
+- Python (KNN example)
+
+## Included Projects
 - BankApp (Java)
 - CarRent (Java)
 - Library (Java)
 - SchoolManagement (Java)
 - KNN (Python)
 
-## Calistirma
-### Java projeleri
+## Concepts Practiced
+- Encapsulation and class design
+- Object interaction and composition
+- Basic abstraction patterns
+- Modular project organization
+
+## How To Run
+### Java projects
+From the specific Java project folder:
 ```bash
 javac *.java
 java Main
 ```
 
-### Python projesi (KNN)
+### Python project (KNN)
 ```bash
 python KNN/knn.py
 ```
 
-## Ogrenme Hedefi
-- Sinif/nesne iliskisi
-- Encapsulation ve abstraction
-- Moduler proje yapisi
-- Gercek hayata yakin senaryolarla OOP pratigi
+## Repository Structure
+```text
+OOP/
+ BankApp/
+ CarRent/
+ Library/
+ SchoolManagement/
+ KNN/
+ README.md
+```
 
-## Not
-Her klasor bagimsiz bir mini proje gibi dusunulmelidir.
+## Notes
+- Each folder should be treated as an independent project.
+- Java and Python components are intentionally separated to keep examples focused.
